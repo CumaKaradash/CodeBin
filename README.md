@@ -39,7 +39,3 @@ Katkılarınızı memnuniyetle karşılıyoruz! Lütfen bir pull request oluştu
 ## Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır.
-
-## İletişim
-
-Herhangi bir sorunuz veya öneriniz için [Cuma Karadaş](https://github.com/CumaKaradash) ile iletişime geçebilirsiniz.
